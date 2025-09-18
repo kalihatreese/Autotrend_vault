@@ -40,6 +40,7 @@ build/Release
 
 # Dependency directories
 node_modules/
+<<<<<<< HEAD
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
@@ -141,3 +142,7 @@ vite.config.ts.timestamp-*
 =======
 node_modules/
 >>>>>>> a14cdcb (🧬 Mutation sync from AutoTrend Vault)
+=======
+node_modules/
+dist/
+>>>>>>> 37bdaea (Initial commit: filled all placeholders for 🔥MomentumVault)

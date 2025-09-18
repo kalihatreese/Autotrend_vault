@@ -75,3 +75,6 @@ web_modules/
 .lock-wscript
 .tern-port
 .vscode-test
+
+.env
+.env.*

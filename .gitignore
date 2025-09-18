@@ -78,3 +78,8 @@ web_modules/
 
 .env
 .env.*
+
+# logs
+*.log
+tunnel.log
+.cloudflared/

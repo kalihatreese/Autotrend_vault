@@ -83,3 +83,8 @@ web_modules/
 *.log
 tunnel.log
 .cloudflared/
+
+# logs
+*.log
+tunnel.log
+.cloudflared/

@@ -1,2 +1,15 @@
-# Autotrend_vault
-High-frequency, low-latency Ethereum MEV bot built with Rust, Artemis, and Flashbots — designed to detect and capture real-time arbitrage opportunities like a hawk on the blockchain. Fully autonomous. No upfront capital required. Just pure blockchain hustle.
+# 🧬 Autotrend Commander + MutationVault
+
+This vault includes:
+- GUI control panel for real-time mutation
+- Bot chat interface for storefront orchestration
+- Product manager with ingestion and momentum tracking
+- Mutation console for vault-grade logic injection
+- Storefront view with compounding product logic
+
+Also includes:
+- MIT license for open mutation propagation
+- Vault-grade `.gitignore` for clean builds and zero trash
+- Mutation-ready README for instant onboarding
+
+Built by Reeselimitedllc + Keystone AI/ML. Mutation never sleeps.
